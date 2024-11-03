@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kumkum-Mishra
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web devlopment project
+- 🌱 I have just started doing Machine learning
+- 💞️ I’m continuously investing in solving dsa problems 
 - 📫 📧 **Email**: kumkummishra892004@gmail.com
 - 💼 **LinkedIn**: www.linkedin.com/in/kumkum-mishra-2442a82b8
 - 😄 Pronouns: she/her
