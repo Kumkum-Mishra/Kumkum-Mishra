@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumkum-mishra" alt="kumkum-mishra" /></a> </p>
 
-- 🔭 I’m currently working on **CNN**
+- 🔭 I’m currently doing **Deep learning**
 
 - 🌱 I’m currently learning **PyTorch**
 
