@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumkum-mishra" alt="kumkum-mishra" /></a> </p>
 
-- 🔭 I’m currently learning **Gen Ai**
+- 🔭 I’m currently working on **Agentic AI Projects**
 
 - 🌱 I’m currently doing **DSA**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kumkummishra892004@gmail.com**
 
-- ⚡ Fun fact **I am good at cracking lame jokes**
+- ⚡ Fun fact **I like optimizing ML models for both performance and efficiency.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
