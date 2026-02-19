@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kumkum Mishra</h1>
-<h3 align="center">AI Systems & Efficient LLM Research</h3>
+<h3 align="center">AI Systems Engineer | Efficient LLM Research | Sustainable AI</h3>
 
 <p align="center">
-Focused on building reproducible, optimization-driven machine learning systems.<br>
-Research interests: LLM Evaluation • Sustainable AI • Agent Reliability • Model Optimization
+Building reproducible, optimization-driven machine learning systems.<br>
+Focus: LLM Evaluation • Energy-Aware AI • Agent Reliability • Model Optimization
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumkum-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -11,10 +15,19 @@ Research interests: LLM Evaluation • Sustainable AI • Agent Reliability • 
 ### 🔬 About Me
 
 - 🎓 B.Tech CSE | CGPA 9+
-- 🧠 Ex-Research Intern @ BITS Pilani (Semantic Segmentation & Robust Vision Systems)
-- ⚙️ Building evaluation frameworks for LLM efficiency & energy-aware AI
-- 📊 Experienced in experiment design, benchmarking & reproducible ML pipelines
-- 🧪 Exploring agent reliability and failure-mode analysis
+- 🧠 Former Research Intern at BITS Pilani (Deep Learning & Robust Vision Systems)
+- 💼 Freelance Machine Learning Engineer on **Upwork** (LLM systems, model optimization & applied deep learning)
+- ⚙️ Designing scalable ML pipelines and evaluation frameworks
+- 📊 Strong focus on experiment design, benchmarking & reproducible research
+
+---
+
+### 💼 Freelance Experience (Upwork)
+
+- Built a TCN-based deep learning model for high-frequency financial prediction
+- Developed automated program repair systems using CodeT5 (Python & Java)
+- Implemented LLM quantization, GPU acceleration & model benchmarking
+- Conducted energy-aware model analysis using CodeCarbon
 
 ---
 
@@ -22,28 +35,34 @@ Research interests: LLM Evaluation • Sustainable AI • Agent Reliability • 
 
 - Efficient LLM benchmarking & quantization
 - Energy-aware prompt evaluation
-- RAG system performance optimization
-- ML experiment tracking & evaluation frameworks
+- Retrieval-Augmented Generation (RAG) optimization
+- AI agent reliability & failure-mode analysis
 
 ---
 
 ### 🛠 Technical Stack
 
 **Languages:** Python, C++, SQL  
-**AI/ML:** PyTorch, Scikit-Learn, Transformers, RAG, LangChain  
-**Systems & APIs:** FastAPI, REST APIs, Streamlit  
+**AI/ML:** PyTorch, Transformers, RAG, LangChain, Scikit-Learn  
+**Systems:** FastAPI, REST APIs, Streamlit  
 **Data:** Pandas, NumPy, MySQL, SQLite  
-**Tools:** Git, Experiment Tracking, Model Evaluation Pipelines  
+**Practices:** Experiment Tracking, Model Evaluation, Reproducible ML Pipelines  
 
 ---
 
-### 📌 Selected Work
+### 📌 Highlighted Projects
 
 - **Carbon Prompting Playground** – Prompt-level energy & emission analysis framework  
 - **NeuroDigest** – LLM-powered personalized knowledge aggregation system  
 - **Agentic AI Experiments** – Research notebooks on autonomous agent evaluation  
 
-(More structured research repositories coming soon.)
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kumkum-mishra&theme=algolia&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
